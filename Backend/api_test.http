@@ -1,0 +1,7 @@
+# POST Request to API Endpoint
+POST http://localhost:5000/searchmeme
+Content-Type: application/json
+
+{
+  "text": "john"
+}
